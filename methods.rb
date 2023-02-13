@@ -12,7 +12,7 @@ end
 
 greet
 
-def greet_with_default(name = "kama")
+def greet_with_default(name = "Programmer")
     puts "Hello, #{name}"
 end
 
